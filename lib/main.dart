@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'pages/listing.dart';
+import 'package:coffeelog/pages/listing.dart';
 
 void main() {
   runApp(const App());
